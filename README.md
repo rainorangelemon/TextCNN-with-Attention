@@ -1,5 +1,6 @@
-# TextCNN
+# TextCNN with Attention
 
+NOTE: this repo is forked from [delldu](https://github.com/delldu/TextCNN), great thanks to the original author!
 
 | **A picture is worth a thousand words ！** |
 | :----------------------------------------- |
